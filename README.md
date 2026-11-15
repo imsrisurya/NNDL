@@ -86,8 +86,21 @@ Running the notebook prints metric tables and saves these figures in the working
 | `exp4_freerun.png` | Free-run predictions vs measured data |
 | `exp7_control.png` | PID vs NN-MPC step and disturbance responses |
 
+## Block Diragrams
+
+### Closed-Loop Control System
+
+![Closed Loop Control Block Diagram](images/control_loop.png)
+
+### Project flow
+
+![Project flow Block Diagram](images/project_flow.png)
+
+
 ## Tech stack
 Python, NumPy, SciPy, scikit-learn, Matplotlib, Jupyter
 
 ## Author
 Pardha Saradhi
+
+
