@@ -90,4 +90,4 @@ Running the notebook prints metric tables and saves these figures in the working
 Python, NumPy, SciPy, scikit-learn, Matplotlib, Jupyter
 
 ## Author
-Surya, B.Tech, NIT Rourkela
+Pardha Saradhi
